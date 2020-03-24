@@ -1,12 +1,10 @@
-# Python-3
+# Python 3
 
 Python codes and notes for practice and learning
 
-As part of my M.S. Business Analytics curriculum at University of Texas at Dallas(2019-2021) I practiced and worked on Python 3 based projects.
-I like to share my knowledge and collaborate with people, which is the reason I'm here updating and posting my notebooks on GitHub.
-If it has been useful to you then please download my public notes for your learnings. 
+As part of my M.S. Business Analytics curriculum at University of Texas at Dallas(2019-2021) with focus on Data Science and Data Engineering Tracks I will be practicing and posting my work on GitHub for anyone who wants to refer or review my work.
 
-Let me know how your journey has been while using these materials.
+This work is mainly carried out on Anaconda Data Science Platform
 
 #Cheers!!
 
